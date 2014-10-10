@@ -160,7 +160,7 @@ function updateCanvasDimensions() {
         //height: 580,
         //width: 1300
 		height: 200,
-        width: 650
+        width: 600
     });
     canvasWidth = canvas.width();
     canvasHeight = canvas.height();
